@@ -27,3 +27,9 @@ Para utilizar configurar o CORS, podemos utilizar o próprio cors do Fastify com
 
 Depois para configurar o cors, instancia o mesmo e utilize o método
 - app.register(cors)
+
+Utilizando o Vite para o framework de dependencia de front end
+Em conjunto com o react
+
+Componentes: Servem para reaproveitar / Isolar e evitar repetição de código
+Propriedade: Uma informação enviada para modificar um componente visual ou comportalmente
